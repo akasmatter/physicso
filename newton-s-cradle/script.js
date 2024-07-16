@@ -84,7 +84,7 @@ Example.newtonsCradle = function() {
 MatterTools.Demo.create({
   toolbar: {
     title: 'Newton\'s Cradle',
-    url: '#',
+    url: 'https://akasmatter.github.io/physicso/newton-s-cradle/',
     reset: true,
     source: false,
     fullscreen: true,
@@ -97,7 +97,7 @@ MatterTools.Demo.create({
       name: 'Newton\'s Cradle',
       id: 'newtonsCradle',
       init: Example.newtonsCradle,
-      sourceLink: ''
+      sourceLink: 'https://akasmatter.github.io/physicso/newton-s-cradle/'
     }
   ]
 });
